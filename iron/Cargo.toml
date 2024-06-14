@@ -13,6 +13,9 @@ readme = "../README.md"
 repository = "https://github.com/iron/iron"
 version = "0.6.0"
 workspace = ".."
+edition = "2018"
+categories = ["web-programming::http-server"]
+keywords = ["web", "server", "http"]
 
 [dependencies]
 futures = "0.1"
